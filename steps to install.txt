@@ -1,0 +1,31 @@
+python -m venv venv (this is name I have use ploc)
+
+ploc\Scripts\activate
+
+pip install scrapy scrapy-playwright
+
+playwright install
+
+scrapy startproject flipkart
+
+cd my_project -> code .
+
+# Syntax: scrapy genspider <name> <domain>
+
+scrapy genspider flip flipkart.com
+
+
+# settings.py
+
+# 1. Register the Playwright handler
+DOWNLOAD_HANDLERS = {
+    "http": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
+    "https": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
+}
+
+# 2. Use the Playwright-specific reactor
+TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
+
+# 3. Optional: Configure browser behavior
+PLAYWRIGHT_BROWSER_TYPE = "chromium"  # or "firefox" / "webkit"
+PLAYWRIGHT_LAUNCH_OPTIONS = {"headless": True}

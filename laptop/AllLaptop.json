@@ -1,0 +1,578 @@
+[
+    {
+        "name": "DELL 14 Plus Next Gen AI PC Intel Core Ultra 5 226V",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) DB14250 Thin ...",
+        "original_price": 98040.0,
+        "discount": "20% off",
+        "final_price": 77990.0,
+        "rating": 4.3
+    },
+    {
+        "name": "DELL Inspiron 15 Intel Core i7 13th Gen 1355U",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) 3530 Thin and Light...",
+        "original_price": 73911.0,
+        "discount": "6% off",
+        "final_price": 68990.0,
+        "rating": 4.3
+    },
+    {
+        "name": "ASUS Vivobook Go 15 (2025) with Office 2024 + M365 Basic*, AMD Ryzen 3 Quad Core 7320U",
+        "details": "(16 GB/512 GB...",
+        "original_price": 37990.0,
+        "discount": "5% off",
+        "final_price": 35990.0,
+        "rating": 4.2
+    },
+    {
+        "name": "ASUS Vivobook Go 15 AMD Ryzen 5 Quad Core 7520U",
+        "details": "(8 GB/512 GB SSD/Windows 11 Home) E1504FA",
+        "original_price": 50990.0,
+        "discount": "23% off",
+        "final_price": 38990.0,
+        "rating": 4.3
+    },
+    {
+        "name": "ASUS Chromebook CX14 Intel Celeron Dual Core N4500",
+        "details": "(4 GB/128 GB EMMC Storage/Chrome OS) CX1405CKA",
+        "original_price": 23900.0,
+        "discount": "12% off",
+        "final_price": 20796.0,
+        "rating": 3.8
+    },
+    {
+        "name": "ASUS ExpertBook P1 (i5 14th Gen) Intel Core 5 210H",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) P1503CVA",
+        "original_price": 89990.0,
+        "discount": "37% off",
+        "final_price": 55990.0,
+        "rating": 4.3
+    },
+    {
+        "name": "HP Intel Core i5 13th Gen 1334U",
+        "details": "(12 GB/512 GB SSD/Windows 11 Home) 15",
+        "original_price": 68417.0,
+        "discount": "24% off",
+        "final_price": 51990.0,
+        "rating": 4.2
+    },
+    {
+        "name": "ASUS Vivobook Go 15 AMD Ryzen 3 Quad Core 7320U",
+        "details": "(8 GB/512 GB SSD/Windows 11 Home) E1504FA",
+        "original_price": 43990.0,
+        "discount": "18% off",
+        "final_price": 35990.0,
+        "rating": 4.3
+    },
+    {
+        "name": "Acer Aspire Intel Core i3 13th Gen 1305U",
+        "details": "(8 GB/512 GB SSD/Windows 11 Home) AL15",
+        "original_price": 42990.0,
+        "discount": "9% off",
+        "final_price": 38938.0,
+        "rating": 4.0
+    },
+    {
+        "name": "HP 255 R G10 AMD Ryzen 5 Hexa Core AMD Ryzen 5 7535U Hexa Core",
+        "details": "(8 GB/512 GB SSD/Windows 11 Home) 255...",
+        "original_price": 60000.0,
+        "discount": "35% off",
+        "final_price": 38999.0,
+        "rating": 3.7
+    },
+    {
+        "name": "HP 14 AI PC Intel Core Ultra 7 155H",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) 14",
+        "original_price": 95687.0,
+        "discount": "19% off",
+        "final_price": 76990.0,
+        "rating": 4.2
+    },
+    {
+        "name": "DELL 15 Intel Core i5 13th Gen",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) Vostro 3530 RPL Laptop",
+        "original_price": 64874.0,
+        "discount": "12% off",
+        "final_price": 56990.0,
+        "rating": 4.2
+    },
+    {
+        "name": "ASUS Chromebook CX14 Intel Celeron Dual Core N4500",
+        "details": "(4 GB/64 GB EMMC Storage/Chrome OS) CX1405CKA",
+        "original_price": 21990.0,
+        "discount": "31% off",
+        "final_price": 14999.0,
+        "rating": 3.8
+    },
+    {
+        "name": "Acer Aspire 3 Intel Celeron Dual Core",
+        "details": "(8 GB/512 GB SSD/Windows 11 Home) A311",
+        "original_price": 35999.0,
+        "discount": "27% off",
+        "final_price": 25990.0,
+        "rating": 3.8
+    },
+    {
+        "name": "Acer 3 Years Warranty Aspire 3 (2025) Intel Core i3 13th Gen 1305U",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home...",
+        "original_price": 70990.0,
+        "discount": "42% off",
+        "final_price": 40990.0,
+        "rating": 4.1
+    },
+    {
+        "name": "Acer Aspire 3 Intel Celeron Dual Core",
+        "details": "(8 GB/256 GB SSD/Windows 11 Home) A311",
+        "original_price": 29999.0,
+        "discount": "5% off",
+        "final_price": 28492.0,
+        "rating": 3.8
+    },
+    {
+        "name": "DELL G15 Intel Core i5 13th Gen 13450HX",
+        "details": "(16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce...",
+        "original_price": 101709.0,
+        "discount": "23% off",
+        "final_price": 77787.0,
+        "rating": 4.2
+    },
+    {
+        "name": "Lenovo LOQ Essential Intel Core i7 12650HX",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA Ge...",
+        "original_price": 100990.0,
+        "discount": "20% off",
+        "final_price": 79990.0,
+        "rating": 4.3
+    },
+    {
+        "name": "HP Intel Celeron Dual Core N4500",
+        "details": "(8 GB/512 GB SSD/Windows 11 Home) 14s",
+        "original_price": 31933.0,
+        "discount": "6% off",
+        "final_price": 29990.0,
+        "rating": 3.7
+    },
+    {
+        "name": "Acer Aspire Lite Intel Core i3 12th Gen 1215U",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) AL15",
+        "original_price": 55990.0,
+        "discount": "28% off",
+        "final_price": 39990.0,
+        "rating": 4.1
+    },
+    {
+        "name": "DELL 14 Next Gen AI PC Intel Core Ultra 5 226V",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) DB14250 / 14 Plus ...",
+        "original_price": 102656.0,
+        "discount": "11% off",
+        "final_price": 90490.0,
+        "rating": 4.3
+    },
+    {
+        "name": "DELL 14 Plus Intel Core Ultra 7 256V",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) DB14250 Thin and Light Lapto...",
+        "original_price": 116859.0,
+        "discount": "12% off",
+        "final_price": 101990.0,
+        "rating": 4.9
+    },
+    {
+        "name": "Primebook 2 Pro (2025) in",
+        "details": "Built AI MediaTek Helio G99 (MT8781)",
+        "original_price": 29990.0,
+        "discount": "33% off",
+        "final_price": 19990.0,
+        "rating": 4.3
+    },
+    {
+        "name": "HP 15s Intel Core i3 13th Gen 1315U",
+        "details": "(8 GB/512 GB SSD/Windows 11 Home) 15",
+        "original_price": 50903.0,
+        "discount": "19% off",
+        "final_price": 40990.0,
+        "rating": 4.1
+    },
+    {
+        "name": "Acer Aspire 3 Intel Celeron Dual Core",
+        "details": "(8 GB/128 GB SSD/Windows 11 Home) A311",
+        "original_price": 33999.0,
+        "discount": "17% off",
+        "final_price": 27990.0,
+        "rating": 3.8
+    },
+    {
+        "name": "Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U",
+        "details": "(8 GB/512 GB SSD/Windows 11 Home) NP750XGJ",
+        "original_price": 78189.0,
+        "discount": "36% off",
+        "final_price": 49790.0,
+        "rating": 4.4
+    },
+    {
+        "name": "ASUS ExpertBook P1 (i5 14th Gen) Intel Core 5 210H",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) P1503CVA",
+        "original_price": 89990.0,
+        "discount": "37% off",
+        "final_price": 55990.0,
+        "rating": 4.3
+    },
+    {
+        "name": "DELL 14 Plus Next Gen AI PC Intel Core Ultra 5 226V",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) DB14250 Thin ...",
+        "original_price": 98040.0,
+        "discount": "20% off",
+        "final_price": 77990.0,
+        "rating": 4.3
+    },
+    {
+        "name": "ASUS Vivobook Go 15 AMD Ryzen 5 Quad Core 7520U",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) E1504FA",
+        "original_price": 55990.0,
+        "discount": "23% off",
+        "final_price": 42900.0,
+        "rating": 4.3
+    },
+    {
+        "name": "Ultimus APEX BOLD N Intel Pentium Quad Core N4200",
+        "details": "(8 GB/256 GB SSD/Windows 11 Home) NU14U9INC54LS",
+        "original_price": 35990.0,
+        "discount": "47% off",
+        "final_price": 18990.0,
+        "rating": 4.0
+    },
+    {
+        "name": "HP 14 AI PC Intel Core Ultra 7 155H",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) 14",
+        "original_price": 95687.0,
+        "discount": "19% off",
+        "final_price": 76990.0,
+        "rating": 4.2
+    },
+    {
+        "name": "DELL Inspiron 15 Intel Core i7 13th Gen 1355U",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) 3530 Thin and Light...",
+        "original_price": 73911.0,
+        "discount": "6% off",
+        "final_price": 68990.0,
+        "rating": 4.3
+    },
+    {
+        "name": "Acer Aspire 3 Intel Core i5 13th Gen 1334U",
+        "details": "(16 GB/1 TB SSD/Windows 11 Home) A324",
+        "original_price": 64990.0,
+        "discount": "15% off",
+        "final_price": 54990.0,
+        "rating": 4.3
+    },
+    {
+        "name": "Acer Aspire Lite Intel Core i3 12th Gen 1215U",
+        "details": "(8 GB/512 GB SSD/Windows 11 Home) AL15",
+        "original_price": 49990.0,
+        "discount": "19% off",
+        "final_price": 40375.0,
+        "rating": 4.1
+    },
+    {
+        "name": "Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) NP750XGJ ...",
+        "original_price": 82789.0,
+        "discount": "29% off",
+        "final_price": 58730.0,
+        "rating": 4.4
+    },
+    {
+        "name": "Lenovo Chromebook Intel Pentium Quad Core N100",
+        "details": "(4 GB/128 GB EMMC Storage/Chrome OS) 14IAN8 Chromeboo...",
+        "original_price": 36690.0,
+        "discount": "50% off",
+        "final_price": 17990.0,
+        "rating": 3.6
+    },
+    {
+        "name": "DELL 15 Intel Core i5 13th Gen",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) Vostro 3530 RPL Laptop",
+        "original_price": 64874.0,
+        "discount": "12% off",
+        "final_price": 56990.0,
+        "rating": 4.2
+    },
+    {
+        "name": "DELL G15 Intel Core i5 13th Gen 13450HX",
+        "details": "(16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce...",
+        "original_price": 101709.0,
+        "discount": "23% off",
+        "final_price": 77787.0,
+        "rating": 4.2
+    },
+    {
+        "name": "Acer Aspire 3 AMD Ryzen 3 Quad Core 7330U",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) AS15",
+        "original_price": 42990.0,
+        "discount": "6% off",
+        "final_price": 39990.0,
+        "rating": 4.1
+    },
+    {
+        "name": "HP 15 Intel Core i3 13th Gen 1315U",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) 15",
+        "original_price": 56001.0,
+        "discount": "17% off",
+        "final_price": 45990.0,
+        "rating": 4.1
+    },
+    {
+        "name": "Lenovo LOQ Essential Intel Core i7 12650HX",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA Ge...",
+        "original_price": 100990.0,
+        "discount": "20% off",
+        "final_price": 79990.0,
+        "rating": 4.3
+    },
+    {
+        "name": "DELL 14 Next Gen AI PC Intel Core Ultra 5 226V",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) DB14250 / 14 Plus ...",
+        "original_price": 102656.0,
+        "discount": "11% off",
+        "final_price": 90490.0,
+        "rating": 4.3
+    },
+    {
+        "name": "Acer Aspire 15 AMD Ryzen 5 Hexa Core 7430U",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) Aspire AS15",
+        "original_price": 59990.0,
+        "discount": "25% off",
+        "final_price": 44990.0,
+        "rating": 4.1
+    },
+    {
+        "name": "Ultimus APEX Pro Intel Pentium Quad Core N4200",
+        "details": "(4 GB/128 GB SSD/128 GB EMMC Storage/Windows 11 Home)...",
+        "original_price": 27990.0,
+        "discount": "46% off",
+        "final_price": 14990.0,
+        "rating": 3.8
+    },
+    {
+        "name": "HP 15 with Backlit Keyboard & Office 2024 AMD Ryzen 7 Octa Core 5825U",
+        "details": "(16 GB/512 GB SSD/Windows 11 H...",
+        "original_price": 60248.0,
+        "discount": "17% off",
+        "final_price": 49990.0,
+        "rating": 4.1
+    },
+    {
+        "name": "Acer Aspire Lite AMD Ryzen 5 Hexa Core 5625U",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) AL15",
+        "original_price": 49999.0,
+        "discount": "18% off",
+        "final_price": 40990.0,
+        "rating": 4.1
+    },
+    {
+        "name": "DELL 14 Plus Intel Core Ultra 7 256V",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) DB14250 Thin and Light Lapto...",
+        "original_price": 116859.0,
+        "discount": "12% off",
+        "final_price": 101990.0,
+        "rating": 4.9
+    },
+    {
+        "name": "Lenovo LOQ Intel Core i5 13th Gen 13450HX",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeF...",
+        "original_price": 112990.0,
+        "discount": "16% off",
+        "final_price": 94111.0,
+        "rating": 4.4
+    },
+    {
+        "name": "DELL 14 Plus Next Gen AI PC Intel Core Ultra 5 226V",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) DB14250 Thin ...",
+        "original_price": 98040.0,
+        "discount": "20% off",
+        "final_price": 77990.0,
+        "rating": 4.3
+    },
+    {
+        "name": "DELL Inspiron 15 Intel Core i7 13th Gen 1355U",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) 3530 Thin and Light...",
+        "original_price": 73911.0,
+        "discount": "6% off",
+        "final_price": 68990.0,
+        "rating": 4.3
+    },
+    {
+        "name": "ASUS Vivobook Go 15 (2025) with Office 2024 + M365 Basic*, AMD Ryzen 3 Quad Core 7320U",
+        "details": "(16 GB/512 GB...",
+        "original_price": 37990.0,
+        "discount": "5% off",
+        "final_price": 35990.0,
+        "rating": 4.2
+    },
+    {
+        "name": "ASUS Vivobook Go 15 AMD Ryzen 5 Quad Core 7520U",
+        "details": "(8 GB/512 GB SSD/Windows 11 Home) E1504FA",
+        "original_price": 50990.0,
+        "discount": "23% off",
+        "final_price": 38990.0,
+        "rating": 4.3
+    },
+    {
+        "name": "ASUS Chromebook CX14 Intel Celeron Dual Core N4500",
+        "details": "(4 GB/128 GB EMMC Storage/Chrome OS) CX1405CKA",
+        "original_price": 23900.0,
+        "discount": "12% off",
+        "final_price": 20796.0,
+        "rating": 3.8
+    },
+    {
+        "name": "ASUS ExpertBook P1 (i5 14th Gen) Intel Core 5 210H",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) P1503CVA",
+        "original_price": 89990.0,
+        "discount": "37% off",
+        "final_price": 55990.0,
+        "rating": 4.3
+    },
+    {
+        "name": "HP Intel Core i5 13th Gen 1334U",
+        "details": "(12 GB/512 GB SSD/Windows 11 Home) 15",
+        "original_price": 68417.0,
+        "discount": "24% off",
+        "final_price": 51990.0,
+        "rating": 4.2
+    },
+    {
+        "name": "ASUS Vivobook Go 14 (2025) with Office 2024 + M365 Basic* AMD Ryzen 3 Quad Core 7320U",
+        "details": "(8 GB/512 GB S...",
+        "original_price": 43990.0,
+        "discount": "18% off",
+        "final_price": 35990.0,
+        "rating": 4.2
+    },
+    {
+        "name": "ASUS Vivobook Go 15 AMD Ryzen 3 Quad Core 7320U",
+        "details": "(8 GB/512 GB SSD/Windows 11 Home) E1504FA",
+        "original_price": 43990.0,
+        "discount": "18% off",
+        "final_price": 35990.0,
+        "rating": 4.3
+    },
+    {
+        "name": "Acer Aspire Intel Core i3 13th Gen 1305U",
+        "details": "(8 GB/512 GB SSD/Windows 11 Home) AL15",
+        "original_price": 42990.0,
+        "discount": "9% off",
+        "final_price": 38938.0,
+        "rating": 4.0
+    },
+    {
+        "name": "HP 14 AI PC Intel Core Ultra 7 155H",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) 14",
+        "original_price": 95687.0,
+        "discount": "19% off",
+        "final_price": 76990.0,
+        "rating": 4.2
+    },
+    {
+        "name": "DELL 15 Intel Core i5 13th Gen",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) Vostro 3530 RPL Laptop",
+        "original_price": 64874.0,
+        "discount": "12% off",
+        "final_price": 56990.0,
+        "rating": 4.2
+    },
+    {
+        "name": "HP 255 R G10 AMD Ryzen 5 Hexa Core AMD Ryzen 5 7535U Hexa Core",
+        "details": "(8 GB/512 GB SSD/Windows 11 Home) 255...",
+        "original_price": 60000.0,
+        "discount": "35% off",
+        "final_price": 38999.0,
+        "rating": 3.7
+    },
+    {
+        "name": "ASUS Chromebook CX14 Intel Celeron Dual Core N4500",
+        "details": "(4 GB/64 GB EMMC Storage/Chrome OS) CX1405CKA",
+        "original_price": 21990.0,
+        "discount": "31% off",
+        "final_price": 14999.0,
+        "rating": 3.8
+    },
+    {
+        "name": "Acer Aspire 3 Intel Celeron Dual Core",
+        "details": "(8 GB/512 GB SSD/Windows 11 Home) A311",
+        "original_price": 35999.0,
+        "discount": "27% off",
+        "final_price": 25990.0,
+        "rating": 3.8
+    },
+    {
+        "name": "Acer 3 Years Warranty Aspire 3 (2025) Intel Core i3 13th Gen 1305U",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home...",
+        "original_price": 70990.0,
+        "discount": "42% off",
+        "final_price": 40990.0,
+        "rating": 4.1
+    },
+    {
+        "name": "DELL G15 Intel Core i5 13th Gen 13450HX",
+        "details": "(16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce...",
+        "original_price": 101709.0,
+        "discount": "23% off",
+        "final_price": 77787.0,
+        "rating": 4.2
+    },
+    {
+        "name": "Lenovo LOQ Essential Intel Core i7 12650HX",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA Ge...",
+        "original_price": 100990.0,
+        "discount": "20% off",
+        "final_price": 79990.0,
+        "rating": 4.3
+    },
+    {
+        "name": "Acer Aspire 3 Intel Celeron Dual Core",
+        "details": "(8 GB/256 GB SSD/Windows 11 Home) A311",
+        "original_price": 29999.0,
+        "discount": "5% off",
+        "final_price": 28492.0,
+        "rating": 3.8
+    },
+    {
+        "name": "HP Intel Celeron Dual Core N4500",
+        "details": "(8 GB/512 GB SSD/Windows 11 Home) 14s",
+        "original_price": 31933.0,
+        "discount": "6% off",
+        "final_price": 29990.0,
+        "rating": 3.7
+    },
+    {
+        "name": "DELL 14 Next Gen AI PC Intel Core Ultra 5 226V",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) DB14250 / 14 Plus ...",
+        "original_price": 102656.0,
+        "discount": "11% off",
+        "final_price": 90490.0,
+        "rating": 4.3
+    },
+    {
+        "name": "DELL 14 Plus Intel Core Ultra 7 256V",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) DB14250 Thin and Light Lapto...",
+        "original_price": 116859.0,
+        "discount": "12% off",
+        "final_price": 101990.0,
+        "rating": 4.9
+    },
+    {
+        "name": "Acer Aspire Lite Intel Core i3 12th Gen 1215U",
+        "details": "(16 GB/512 GB SSD/Windows 11 Home) AL15",
+        "original_price": 55990.0,
+        "discount": "28% off",
+        "final_price": 39990.0,
+        "rating": 4.1
+    },
+    {
+        "name": "Primebook 2 Pro (2025) in",
+        "details": "Built AI MediaTek Helio G99 (MT8781)",
+        "original_price": 29990.0,
+        "discount": "33% off",
+        "final_price": 19990.0,
+        "rating": 4.3
+    }
+]
